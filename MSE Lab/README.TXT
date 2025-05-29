@@ -1,11 +1,14 @@
 ------------------------------------------------------------------------
 This is the project README file. Here, Here is the project description.
 Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+all they need to know. 
 ------------------------------------------------------------------------
 
 PROJECT TITLE: MID SEM LAB EXAM
-PURPOSE OF PROJECT: Inheritance 
+
+PURPOSE OF PROJECT: Understanding Core fundamental pillar of java 
+Inheritance 
+
 VERSION or DATE:
 
 HOW TO START THIS PROJECT: Just directly copy put the code in any IDE to run it
