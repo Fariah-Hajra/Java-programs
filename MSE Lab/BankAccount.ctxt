@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment1.params=accNum
+comment1.target=void\ getaccNum(int)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ setaccNum()
+comment3.params=balance
+comment3.target=void\ setBal(double)
+comment4.params=
+comment4.target=double\ getBal()
+comment5.params=depositAmount
+comment5.target=void\ depos(double)
+comment6.params=age
+comment6.target=double\ calculateInterest(int)
+comment7.params=age
+comment7.target=void\ applyInterest(int)
+comment8.params=name\ accNum\ balance
+comment8.target=emp(java.lang.String,\ int,\ double)
+comment9.params=
+comment9.target=void\ showInfo()
+numComments=11

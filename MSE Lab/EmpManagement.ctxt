@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EmpManagement
+comment1.params=name\ hoursOfWork\ salary
+comment1.target=emp(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=void\ showInfo()
+comment3.params=amount
+comment3.target=void\ deductFromSalary(double)
+comment4.params=amount
+comment4.target=void\ addToSalary(double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
